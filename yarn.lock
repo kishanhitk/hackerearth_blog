@@ -2677,6 +2677,16 @@ stylis@^4.0.3:
   resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.0.10.tgz#446512d1097197ab3f02fb3c258358c3f7a14240"
   integrity sha512-m3k+dk7QeJw660eIKRRn3xPF6uuvHs/FFzjX3HQ5ove0qYsiygoAhwn5a3IYKaZPo5LrYD0rfVmtv1gNY1uYwg==
 
+suneditor-react@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/suneditor-react/-/suneditor-react-3.1.2.tgz#81c38d7d08f7c6f8bee8d59e5269537c5f8ee8fe"
+  integrity sha512-+U0rcdDRHG/cCylzDUga4el6FbBtAU8zFrxcJSJ0vW3ZyaFRdr8WUMzaLsRYO3vmn/CHv+3PjdaAA3X6iX3zXQ==
+
+suneditor@^2.40.0:
+  version "2.40.0"
+  resolved "https://registry.yarnpkg.com/suneditor/-/suneditor-2.40.0.tgz#eebcbf0fd01c51876eab78f41ead657058176af7"
+  integrity sha512-iuHgEE3rbbDe+ZjX192Wo3Mbfd9qOyDjd5mjHYGx9ZUmdnXYbcNcYL6BVutkABgjYbAuCqGJ0L7lkBaOOgEcuA==
+
 supports-color@^5.3.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
